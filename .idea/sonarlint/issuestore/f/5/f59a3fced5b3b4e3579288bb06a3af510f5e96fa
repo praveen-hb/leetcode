@@ -1,0 +1,156 @@
+
+E
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿå“ñùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(É¶÷®ûÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(–¹ê®úÿÿÿÿ
+:
+java:S1659+"Declare "j" on a separate line.(á”æåşÿÿÿÿ
+S
+java:S1117*"8Rename "ans" which hides the field declared at line 318.(ì¥£Şùÿÿÿÿ
+S
+java:S1117L"8Rename "ans" which hides the field declared at line 318.(ÌÄÛĞıÿÿÿÿ
+@
+java:S1197T"*Move the array designators [] to the type.(îô«
+@
+java:S1197U"*Move the array designators [] to the type.(”ÁÅ¾
+S
+java:S1117]"8Rename "ans" which hides the field declared at line 318.(…„¥Éûÿÿÿÿ
+@
+java:S1197m"*Move the array designators [] to the type.(ÊÛÃ¶
+2
+java:S2757v"Was "-=" meant instead?(…‘Ï›ûÿÿÿÿ
+S
+java:S1117y"8Rename "ans" which hides the field declared at line 318.(ÑŸ®Ğÿÿÿÿÿ
+T
+java:S1117œ"8Rename "ans" which hides the field declared at line 318.(ş‚ç›úÿÿÿÿ
+;
+java:S1659¹"Declare "j" on a separate line.(á”æåşÿÿÿÿ
+A
+java:S1197¸"*Move the array designators [] to the type.(±½
+>
+java:S1659é""Declare "cMax" on a separate line.(£‹Ç»üÿÿÿÿ
+>
+java:S1659û""Declare "max2" on a separate line.(ü»óñıÿÿÿÿ
+F
+java:S1197—"*Move the array designators [] to the type.(Ò‘¨µûÿÿÿÿ
+A
+java:S1197˜"*Move the array designators [] to the type.(æÓóû
+<
+java:S1659«"%Declare "chances" on a separate line.(Äæ‚Ê
+G
+java:S1659Ö"+Declare "rightLeastSum" on a separate line.(éÚÖ›ıÿÿÿÿ
+9
+java:S1659ç"#Declare "right" on a separate line.(”¿5
+T
+java:S1117ü"8Rename "ans" which hides the field declared at line 318.(…„¥Éûÿÿÿÿ
+T
+java:S1117¤"8Rename "ans" which hides the field declared at line 318.(íÍÃ©şÿÿÿÿ
+F
+java:S1197¥"*Move the array designators [] to the type.(À¡ÌÓûÿÿÿÿ
+i
+java:S3776¶"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(çÙëû
+Z
+java:S1659·"CDeclare "countP" and all following declarations on a separate line.(ÖŠºå
+H
+java:S1659¿",Declare "currentGarbage" on a separate line.(§­Ë—şÿÿÿÿ
+T
+java:S1117¿"8Rename "ans" which hides the field declared at line 318.(§­Ë—şÿÿÿÿ
+T
+java:S1117ä"8Rename "ans" which hides the field declared at line 318.(…„¥Éûÿÿÿÿ
+N
+java:S1117ò"8Rename "ans" which hides the field declared at line 318.(„”˜ 
+A
+java:S1197ü"*Move the array designators [] to the type.(²€û£
+A
+java:S1197•"*Move the array designators [] to the type.(÷ïß
+O
+java:S1117•"8Rename "ans" which hides the field declared at line 318.(÷ïß
+O
+java:S1117¢"8Rename "ans" which hides the field declared at line 318.(µüËø
+F
+java:S1197¤"*Move the array designators [] to the type.(–‘üıÿÿÿÿ
+T
+java:S1117µ"8Rename "ans" which hides the field declared at line 318.(…„¥Éûÿÿÿÿ
+8
+java:S1659¾"!Declare "ans" on a separate line.(·‰â¤
+F
+java:S1197½"*Move the array designators [] to the type.(ƒ‹ÖÛüÿÿÿÿ
+O
+java:S1117¾"8Rename "ans" which hides the field declared at line 318.(·‰â¤
+A
+java:S1197Ì"*Move the array designators [] to the type.(’à¥Ÿ
+A
+java:S1197Ñ"*Move the array designators [] to the type.(÷ïß
+O
+java:S1117Ñ"8Rename "ans" which hides the field declared at line 318.(÷ïß
+=
+java:S1659Ó"&Declare "rightSum" on a separate line.(Á¡œ
+<
+java:S1659â"%Declare "columns" on a separate line.(´áï
+T
+java:S1117á"8Rename "ans" which hides the field declared at line 318.(…„¥Éûÿÿÿÿ
+F
+java:S1197ã"*Move the array designators [] to the type.(øóØğıÿÿÿÿ
+F
+java:S1197å"*Move the array designators [] to the type.(ƒ…ÖÑüÿÿÿÿ
+A
+java:S1197€"*Move the array designators [] to the type.(Æòµå
+—
+java:S1186ò"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Á¥°_
+l
+java:S1149Ö"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒıÿÿÿÿ
+H
+java:S1197’",Move the array designators [][] to the type.(ÚŞÅ°ûÿÿÿÿ
+C
+java:S1197–",Move the array designators [][] to the type.(üı ä
+K
+java:S2864¸"4Iterate over the "entrySet" instead of the "keySet".(ëèìñ
+@
+java:S1197Â"*Move the array designators [] to the type.(­ñ¼
+F
+java:S1197Ã"*Move the array designators [] to the type.(ÑäŞ™ıÿÿÿÿ
+A
+java:S1197Ì"*Move the array designators [] to the type.(æÏßí
+?
+java:S1172Ğ"(Remove this unused method parameter "n".(›İ²ê
+F
+java:S1197à"*Move the array designators [] to the type.(»™Õêûÿÿÿÿ
+6
+java:S1659†"Declare "j" on a separate line.(ó“‚¾
+A
+java:S1197…"*Move the array designators [] to the type.(«¢äâ
+F
+java:S1197š"*Move the array designators [] to the type.(¨¯­Ëıÿÿÿÿ
+@
+java:S1197¡"*Move the array designators [] to the type.(µ¿K
+@
+java:S1197ò"*Move the array designators [] to the type.(Á¥°_
+@
+java:S1197ò"*Move the array designators [] to the type.(Á¥°_
+V
+java:S1117µ":Rename "hash" which hides the field declared at line 1023.(Ë®¡¶ùÿÿÿÿ
+[
+java:S1854í"?Remove this useless assignment to local variable "listOfLists".(À®¿üÿÿÿÿ
+Y
+java:S1854ê"=Remove this useless assignment to local variable "twoDArray".(âŠØŸùÿÿÿÿ
+H
+java:S1197é",Move the array designators [][] to the type.(íêÏ­şÿÿÿÿ
+J
+java:S1481ê".Remove this unused "twoDArray" local variable.(âŠØŸùÿÿÿÿ
+L
+java:S1481í"0Remove this unused "listOfLists" local variable.(À®¿üÿÿÿÿ
+m	java:S127·"XRefactor the code in order to not assign to this loop counter from within the loop body.(şƒ(
+F
+java:S1066ª"/Merge this if statement with the enclosing one.(ˆƒ¯¼
+g	java:S117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ—ß²
+0
+java:S1220""Move this file to a named package.
+\
+java:S2184Ò"@Cast one of the operands of this addition operation to a "long".(şïÁñúÿÿÿÿ
+O
+java:S2589Æ"8Remove this expression which always evaluates to "false"(§ ·ä
+O
+java:S2589Æ"8Remove this expression which always evaluates to "false"(§ ·ä
+O
+java:S2589Å"8Remove this expression which always evaluates to "false"(Ş§§Í
